@@ -6,17 +6,15 @@
 [![Issues](https://img.shields.io/github/issues/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/issues)
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
-## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）
 [![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)](https://github.com/ddgksf2013/ddgksf2013)
 
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 
 ## 1️⃣QuantumultX 小白2.0配置：
 * 配置更新时间：2022-11-30
-* 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf) 
+* 自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf) 
 * 上述配置支持QX商店最新版，包括图标库订阅、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、分流和重写去广告、流媒体解锁查询、什么值得买知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://ghproxy.com/```
-* 更多懒人配置请狠狠的 [***Click me***](https://github.com/ddgksf2013/Profile/blob/master/README.md)
 > 详细的带图指南请参考 [*@Shawn*](https://t.me/QuanX_API) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 ## 2️⃣QuantumultX 分流：
@@ -136,7 +134,7 @@
     </tr>
 </table>
 
-> 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
+> 更多的重写请参考 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
 
 ## 4️⃣QuantumultX 脚本Task：
 - [x] 喵喵记账每日签到 [*mmjz.js*](https://github.com/ddgksf2013/Scripts/raw/master/mmjz.js)
@@ -172,21 +170,14 @@
 * [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 
 
-## 7️⃣Telegram 通知频道：
-* 加入[***Cuttlefishの自留地***](https://t.me/ddgksf2021)，第一时间获取最新消息
-* 如有任何关于本库使用的问题可邮件 *ddgksf2013@163.com* 询问
-* 若有需要Crack的应用或小程序可在[***腾讯文档***](https://docs.qq.com/sheet/DYmRTQXpVY0hNcGls?tab=BB08J2) 中反馈
+## 7⃣️特别感谢：
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 8️⃣特别感谢：
-
-以下排名不分先后，如有遗漏可联系[*@ddgksf2013*](https://t.me/ddgksf2013)
+以下排名不分先后
 
 [*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 9️⃣Star 历史
+## 8⃣️Star 历史
 <img src="https://api.star-history.com/svg?repos=ddgksf2013/ddgksf2013&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
 ### [回到顶部](https://github.com/ddgksf2013/ddgksf2013)
