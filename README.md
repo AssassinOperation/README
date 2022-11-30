@@ -162,7 +162,7 @@
 
 > 更多的图标订阅请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 集合的 [***Quantumult X 图标库***](https://github.com/ddgksf2013/Icon/blob/master/README.md)
 
-## 6️⃣Awesome Resource：
+## 6️⃣很棒的资源：
 * QuantumultX测试版[***更新日志***](https://github.com/ddgksf2013/Profile/raw/master/QX_TestFlight_Update.log)
 * 自用Clash配置 [*Config.yaml*](https://github.com/ddgksf2013/Profile/raw/master/Config.yaml)
 * 1080P超清IPTV国内[***直播源***](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
